@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1960
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38821#A-Ten-Year-War--An-Account-of-The-Battle-with-The-Slum-in-New-York
 gutenberg_issued: '2012-02-10'
 gutenberg_type: Text
 identifiers:
